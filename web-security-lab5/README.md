@@ -59,7 +59,7 @@ The following objectives are **optional**:
 
 Here's a walkthrough of implemented user stories:
 
-[Walkthrough]()
+[Walkthrough](http://imgur.com/gallery/bd3MR)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
